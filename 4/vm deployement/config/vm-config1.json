@@ -1,0 +1,13 @@
+{
+"vcenter": "192.168.234.176",
+"username": "administrator@vsphere.local",
+"password": "Kiwi@2004",
+"template": "VM1",
+"vm_name": "VM",
+"cpu": 2,
+"memory": 4096,
+"disk": 50,
+"network": "VM Network",
+"datastore": "datacenter2",
+"cluster": "clu1"
+}

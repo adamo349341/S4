@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  password-manager-server:
+    build: .
+    ports:
+      - "8443:8443"

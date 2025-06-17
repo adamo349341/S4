@@ -1,0 +1,13 @@
+{
+"vcenter":"192.168.234.176",
+"username":"administrator@vsphere.local",
+"password":"Kiwi@2004",
+"template":"Template-Ubuntu-20.04.6",
+"vm_name":"VM2",
+"cpu":2,
+"memory":8192,
+"disk":100,
+"network":"VM Network",
+"datastore":"Data2",
+"cluster":"clu2"
+}
